@@ -7,9 +7,11 @@ Aplicación web para generar y sumar matrices de manera sencilla.
 2. Instala las dependencias con:
    ```sh
    npm install
+   ```
 
 3. Iniciar el servidor
   ```sh
    node server.js
+  ```
 
 4. Acceder a la aplicacion en http://localhost:3000
